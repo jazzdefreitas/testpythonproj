@@ -1,4 +1,6 @@
 ﻿label chapter0:
+  
+    "test"
 
     scene bg classroom
     
